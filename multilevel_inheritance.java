@@ -14,3 +14,4 @@ class Fossil extends trex{
         System.out.println("trex fossil found");
     }
 }
+//main function in Asteroid class
