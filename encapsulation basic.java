@@ -19,3 +19,4 @@ class Teacher {
         }
     }
 }
+//main function in yoyo class
